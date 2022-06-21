@@ -6,7 +6,7 @@ function charCount(str){
             if (obj[char] > 0){
                 obj[char]++
             } else {
-                obj[char] = 1;1
+                obj[char] = 1;
             }
         }
     }
